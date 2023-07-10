@@ -1,7 +1,9 @@
 package com.cydeo.dto;
 
 import com.cydeo.enums.Gender;
-import lombok.*;
+import lombok.AllArgsConstructor;
+import lombok.NoArgsConstructor;
+import lombok.ToString;
 
 import javax.validation.constraints.*;
 
